@@ -1,1 +1,1 @@
-<b>All thinking leads to problems. Only action is the answer.</b>x
+<b>All thinking leads to problems. Only action is the answer.</b>
