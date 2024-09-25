@@ -1,4 +1,4 @@
 <p>
-  <span>📌</span>
-  <b>All thinking leads to problems. Only action is the answer.</b>
+  <sup>📌</sup>
+  <b>The important thing is not the idea itself, but how to implement it based on first principles and continuously iterate through feedback.</b>
 </p>
