@@ -1,3 +1,7 @@
-<p>
-  <b>Use first principles to create a minimal implementation, collect feedback, and iterate continuously.</b>
+<h3>The design is not just what it looks like and feels like. The design is how it works.</h3>
+
+<br/>
+
+<p align="right">
+  <b>— Steve Jobs</b>
 </p>
