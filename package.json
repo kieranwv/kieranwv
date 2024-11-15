@@ -1,7 +1,7 @@
 {
   "name": "kieranwv",
   "type": "module",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "packageManager": "pnpm@9.10.0",
   "description": "I'm Kieran Wang, a front-end developer and product designer.",
   "author": "Kieran Wang <kieranwme@gmail.com> (https://github.com/kieranwv/)",
